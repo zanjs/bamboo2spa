@@ -44,7 +44,7 @@ let packaged = {
 	]
 };
 
-let StaticName = 's1';
+let StaticName = 's3';
 
 let pkgName = pkg.name;
 let pkgVersion = pkg.version;

@@ -5,7 +5,7 @@
 	"author": "zan <suihuasheng@gmail.com>",
 	"license": "ISC",
 	"bin": {
-		"bamboo3": "bin/bamboo"
+		"bamboo2spa": "bin/bamboo"
 	},
 	"main": "bin/bamboo",
 	"scripts": {

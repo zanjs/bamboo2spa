@@ -33,7 +33,7 @@ let packaged = {
 			dir: 'node_modules/'
 		},
 		{
-			dir: 'dist/index.html'
+			file: 'dist/index.html'
 		}
 	],
 	static: [
